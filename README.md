@@ -1,2 +1,2 @@
 # UsamaPortFolio
-UsamaPortFolio with best programming approaches in laravel 13, vue js, mysql.
+UsamaPortFolio with best programming approaches in laravel, vue js, mysql.
